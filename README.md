@@ -10,8 +10,8 @@ _**Maxwell Munene**_
   * My name
   * My image or something that represents my Brand
   * An “About Me” section
-  * Include your background (education, job experience, or why did you decide to take a class on programming, etc)
-  * Your current interests/hobbies/skills
+  * Include My background (education, job experience, or why did you decide to take a class on programming, etc)
+  * My current interests/hobbies/skills
 
 
 ## CONTACT INFORMATION  
