@@ -1,22 +1,21 @@
-# My portfolio
-#### The project is my portfolio page that says about me and showcases a sample of my work},{4th June 2021}.
-#### By Maxwell Munene
-## Description
-This is a portfolio page made after my first week at Moringa School. It showcases what I have been able to do.
-## Setup/Installation Requirements
-git  clone the files
-or download a zip file of the project.
-The files contained (html and css) should be able to open in a browse eg chrome.
-Any changes can be made in a text editor e.g Atom. 
-## Known Bugs
- No known bugs at the moment. 
+# PORTOFIO LANDING PAGE
 
-## Technologies Used
-* HTML
-* CSS
+_**Maxwell Munene**_
 
-## Support and contact details
-Incase of enquiries,additional suggestions or concerns,get in touch.Email:maxwell.munene@student.moringaschool.com 
+## DESCRIPTION OF PROJECT
 
-## License
- MIT License &copy;2021 Maxwell Munene
+  This is a moringa school class project that requires the Creation of  a webpage using HTML and CSS to be the landing page for your web programming portfolio.
+  Here are My Requirements
+
+  * My name
+  * My image or something that represents my Brand
+  * An “About Me” section
+  * Include your background (education, job experience, or why did you decide to take a class on programming, etc)
+  * Your current interests/hobbies/skills
+
+
+## CONTACT INFORMATION  
+[email address: maxwell.munene@student.moringaschoolcom]
+
+## LICENSE INFORMATION
+*MIT LICENSE 2021 @maxwellmunene*
