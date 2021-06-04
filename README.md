@@ -7,16 +7,16 @@ This is a portfolio page made after my first week at Moringa School. It showcase
 git  clone the files
 or download a zip file of the project.
 The files contained (html and css) should be able to open in a browse eg chrome.
-Any changes can be made in a text editor e.g Atom.
+Any changes can be made in a text editor e.g Atom. 
 ## Known Bugs
- No known bugs at the moment.
+ No known bugs at the moment. 
 
 ## Technologies Used
 * HTML
 * CSS
 
 ## Support and contact details
-Incase of enquiries,additional suggestions or concerns,get in touch.Email:maxwell.munene@student.moringaschool.com
+Incase of enquiries,additional suggestions or concerns,get in touch.Email:maxwell.munene@student.moringaschool.com 
 
 ## License
  MIT License &copy;2021 Maxwell Munene
