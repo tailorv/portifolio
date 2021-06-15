@@ -11,7 +11,7 @@ DESCRIPTION OF PROJECT
   * My name
   * My image or something that represents my Brand
   * An “About Me” section
-  *Include My background (education, job experience, or why did i decided to take a class on programming, etc)
+  *Include My background (education, job experience, or why i decided to take a class on programming, etc)
   * My current interests/hobbies/skills
 
 
