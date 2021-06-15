@@ -1,5 +1,5 @@
 # PORTFOLIO LANDING PAGE
-#### This is my sample portfolio websites. It is my First assignment at Moring School
+#### This is my sample portfolio websites. It is my First assignment at Moringa School
 
 ##**Author Maxwell Munene**##
 
@@ -11,7 +11,7 @@ DESCRIPTION OF PROJECT
   * My name
   * My image or something that represents my Brand
   * An “About Me” section
-  *I nclude My background (education, job experience, or why did you decide to take a class on programming, etc)
+  *Include My background (education, job experience, or why did i decided to take a class on programming, etc)
   * My current interests/hobbies/skills
 
 
