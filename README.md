@@ -1,6 +1,6 @@
 # PORTOFIO LANDING PAGE
 
-![USER INTERFACE](images/homepage.png) (USER INTERFACE)
+![USER INTERFACE] (images/homepage.png) (USER INTERFACE)
 
 _**Author Maxwell Munene**_
 
