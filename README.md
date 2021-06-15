@@ -1,6 +1,8 @@
 # PORTOFIO LANDING PAGE
 
-_**Maxwell Munene**_
+![USER INTERFACE](images/portfolio.jpg) (USER INTERFACE)
+
+_**Author Maxwell Munene**_
 
 DESCRIPTION OF PROJECT
 
