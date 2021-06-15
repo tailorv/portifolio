@@ -1,7 +1,6 @@
-# PORTOFIO LANDING PAGE
-
-![USER INTERFACE] (images/homepage.png) (USER INTERFACE)
-
+# PORTFOLIO LANDING PAGE
+#### This is my sample portfolio websites. It is my First assignment at Moring School.
+![USER INTERFACE](images/homepage.png) (USER INTERFACE)
 _**Author Maxwell Munene**_
 
 DESCRIPTION OF PROJECT
