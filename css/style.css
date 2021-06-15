@@ -124,7 +124,7 @@
 }
 
 #size {
-  font-size: 41px;
+  font-size: 40px;
 }
 
 #bottom {
@@ -157,7 +157,7 @@
 
 #world {
   background-color: #222;
-  background-image: url("../img/map.png");
+  background-image: url("../img/beach.jpg");
   background-size: cover;
 }
 
@@ -167,4 +167,5 @@
 
 h2 {
   color: white;
+  font-size: 50px
 }
